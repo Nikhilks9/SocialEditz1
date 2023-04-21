@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SocialEditz1/static/css/main.d8a9f6ed.css",
+    "main.js": "/SocialEditz1/static/js/main.385160d4.js",
+    "static/media/IntroImg.jpg": "/SocialEditz1/static/media/IntroImg.d305bf387447259d48fb.jpg",
+    "index.html": "/SocialEditz1/index.html",
+    "main.d8a9f6ed.css.map": "/SocialEditz1/static/css/main.d8a9f6ed.css.map",
+    "main.385160d4.js.map": "/SocialEditz1/static/js/main.385160d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a9f6ed.css",
+    "static/js/main.385160d4.js"
+  ]
+}
